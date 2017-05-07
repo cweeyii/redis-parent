@@ -13,12 +13,132 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/redis-client/redis-client.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/redis-client/src/main/java/com/cweeyii/cache/framework/IRedis.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/redis-client/src/main/java/com/cweeyii/cache/framework/impl/RedisImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-client/src/main/resources/applicationContext-redis.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-spring/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-spring/src/main/java/com/cweeyii/redis/IRedis.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-spring/src/main/java/com/cweeyii/redis/impl/RedisImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-spring/src/main/resources/applicationContext-basic.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-spring/src/main/resources/applicationContext-redis.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-spring/src/main/resources/redis.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-spring/src/test/java/com/cweeyii/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-spring/src/test/java/com/cweeyii/RedisClientTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/src/main/java/com/cweeyii/DateUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/src/main/java/com/cweeyii/IRedisFirstJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/src/main/resources/applicationContext-basic.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/src/main/resources/base/applicationContext-basic.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/src/main/resources/base/applicationContext-redis.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/src/main/resources/base/webmvc-basic-webapp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/src/main/resources/beta/database.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/src/main/resources/local/redis.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/src/main/resources/redis.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/src/test/java/com/cweeyii/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/src/test/java/com/cweeyii/RedisClientTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/redis-task/target/test-classes/base/applicationContext-basic.xml">
           <value>
             <set />
           </value>

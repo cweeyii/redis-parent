@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/redis-client/redis-client.iml" filepath="$PROJECT_DIR$/redis-client/redis-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis-parent.iml" filepath="$PROJECT_DIR$/redis-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-spring/redis-spring.iml" filepath="$PROJECT_DIR$/redis-spring/redis-spring.iml" />
     </modules>
   </component>
 </project>

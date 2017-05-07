@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="redis-client" />
+        <module name="redis-spring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="redis-client" target="1.8" />
-      <module name="redis-parent" target="1.8" />
+      <module name="redis-spring" target="1.8" />
+      <module name="redis-task" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
